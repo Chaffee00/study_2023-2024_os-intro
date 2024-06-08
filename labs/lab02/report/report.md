@@ -266,11 +266,5 @@ header-includes:
 
 # Список литературы{.unnumbered}
 
-1. О системе контроля версий [Электронный ресурс]. 2016. URL: https://git-scm.com/book/ru/v2/Введение-О-системе-контроля-версий.
-
-2. Евгений Г. Системы контроля версий [Электронный ресурс]. 2016. URL: https://glebradchenko.susu.ru/courses/bachelor/engineering/2016/SUSU_SE_2016_REP_3_VCS.pdf.
-
-3. Системы контроля версий [Электронный ресурс]. 2016. URL: http://uii.mpei.ru/study/courses/sdt/16/lecture02.2_vcs.slides.pdf.
-
 ::: {#refs}
 :::
